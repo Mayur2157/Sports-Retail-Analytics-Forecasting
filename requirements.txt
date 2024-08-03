@@ -1,0 +1,7 @@
+Flask
+Dash
+plotly
+mysql-connector-python
+pandas
+statsmodels  
+scikit-learn 
